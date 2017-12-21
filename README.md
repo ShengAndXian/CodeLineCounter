@@ -1,16 +1,16 @@
 # CodeLineCounter
 A small program to calculate the number of code line in a project.
 
-##Feature
+## Feature
 
 - File type filter
 - Comment filter
 
-##Compile
+## Compile
 
 Just compile it as a normal java program. 
 
-##Run
+## Run
 
 The command line form is shown as follow:
 
